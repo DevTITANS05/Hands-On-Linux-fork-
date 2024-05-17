@@ -2,7 +2,7 @@
 
 # DevTITANS 05 - HandsOn Linux - Equipe 0X
 
-Bem-vindo ao repositório do Projeto Driver ESP32! Este projeto contém um firmware para o ESP32 escrito em formato Arduino `.ino`, bem como um driver do kernel Linux escrito em C. O objetivo é demonstrar como criar uma solução completa de hardware e software que integra um dispositivo ESP32 com um sistema Linux.
+Bem-vindo ao repositório da Equipe 0X do HandsON de Linux do DevTITANS! Este projeto contém um firmware para o ESP32 escrito em formato Arduino `.ino`, bem como um driver do kernel Linux escrito em C. O objetivo é demonstrar como criar uma solução completa de hardware e software que integra um dispositivo ESP32 com um sistema Linux.
 
 ## Tabela de Conteúdos
 
@@ -13,17 +13,16 @@ Bem-vindo ao repositório do Projeto Driver ESP32! Este projeto contém um firmw
 - [Configuração de Hardware](#configuração-de-hardware)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Contribuidores
 
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/1d01e83d-b11a-4d1f-870a-1c59f14125c1" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/1d01e83d-b11a-4d1f-870a-1c59f14125c1" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/1d01e83d-b11a-4d1f-870a-1c59f14125c1" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/1d01e83d-b11a-4d1f-870a-1c59f14125c1" width="180" >
-<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/1d01e83d-b11a-4d1f-870a-1c59f14125c1" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
+<img src="https://github.com/DevTITANS05/Hands-On-Linux-fork-/assets/21023906/85e61f3e-476c-47a4-82d5-4054e856c67b" width="180" >
 
 - **Nome do(a) Aluno(a) 01:** Desenvolvedor do Firmware e Mantenedor do Projeto
 - **Nome do(a) Aluno(a) 02:** Desenvolvedor do Firmware
